@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+updatefaker.com	TRUE	/	FALSE	1999999999	ezoadgid_310251	-2
+updatefaker.com	TRUE	/	FALSE	1999999999	ezosuibasgeneris-1	4f6496a0-cd0e-4bca-4694-69672f21853e
+updatefaker.com	TRUE	/	FALSE	1999999999	SameSite	None
+updatefaker.com	TRUE	/	FALSE	1999999999	ezoab_310251	mod162
+updatefaker.com	TRUE	/	FALSE	1999999999	active_template::310251	pub_site.1682071815
+updatefaker.com	TRUE	/	FALSE	1999999999	lp_310251	https://updatefaker.com/windows11/
+updatefaker.com	TRUE	/	FALSE	1999999999	ezovuuidtime_310251	1682071815
+updatefaker.com	TRUE	/	FALSE	1999999999	ezovuuid_310251	36905ef1-2bb2-42b0-5d8a-3898c875ce91
+updatefaker.com	TRUE	/	FALSE	1999999999	ezopvc_310251	1
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	64426126-54115-63352-3a268
+

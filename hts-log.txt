@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Apr 2023 15:40:11 at https://updatefaker.com/windows11/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://updatefaker.com/windows11/ -O1 "C:\My Web Sites\windows 11" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:41:26	Error: 	"No Content" (204) at link https://updatefaker.com/detroitchicago/grapefruit.gif (from https://updatefaker.com/windows11/)
+15:41:26	Error: 	"No Content" (204) at link https://updatefaker.com/porpoiseant/army.gif (from https://updatefaker.com/windows11/)
+15:41:27	Error: 	"Not Found" (404) at link https://updatefaker.com/windows11/audins.js (from https://updatefaker.com/windows11/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 16 seconds : 32 links scanned, 28 files written (386751 bytes overall) [136718 bytes received at 1798 bytes/sec], 381788 bytes transferred using HTTP compression in 18 files, ratio 30%
+(3 errors, 0 warnings, 0 messages)
